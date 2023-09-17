@@ -1,7 +1,7 @@
 ### Hi there. I am Ramanathan Venkatachalam👋. Welcome to my Profile!!!
 
-- 🔭 I’m currently working as System Engineer
-- 🌱 I’m currently learning Python, C, Networking and Cloud
+- 🔭 I’m currently working as a Senior Engineer
+- 🌱 I’m currently learning Python, C, C++
 - 😄 Pronouns: He/Him
 
 ### GitHub Stats
